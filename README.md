@@ -1,1 +1,1 @@
-Hosting ENTSEC Website on Github pages.
+Hosting ENTSEC Website on Github pages. Why? Obscure and Free.
